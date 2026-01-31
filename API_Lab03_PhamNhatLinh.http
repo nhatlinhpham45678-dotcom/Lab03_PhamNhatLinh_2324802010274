@@ -1,0 +1,6 @@
+@API_Lab03_PhamNhatLinh_HostAddress = http://localhost:5256
+
+GET {{API_Lab03_PhamNhatLinh_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
